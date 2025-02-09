@@ -5,5 +5,9 @@
   "domains": [ "mitoSoft-homeNet" ],
   "country": "DE",
   "homeassistant": "2023.1.0",
-  "documentation": "https://github.com/DEIN_GITHUB_USERNAME/hacs-my-custom-component"
+  "documentation": "https://github.com/michaelroth1/mitoSoft-homeNet",
+  "extra": {
+    "icon": "https://raw.githubusercontent.com/michaelroth1/mitoSoft-homeNet/main/images/mitoSoft_icon.png",
+    "logo": "https://raw.githubusercontent.com/michaelroth1/mitoSoft-homeNet/main/images/mitoSoft_logo.png"
+  }
 }
