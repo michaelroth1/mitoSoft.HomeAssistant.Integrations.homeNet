@@ -8,7 +8,7 @@
   "requirements": [],
   "iot_class": "local_polling",
   "extra": {
-    "icon": "https://raw.githubusercontent.com/michaelroth1/mitoSoft.HomeAssistant.Integrations.homeNet/main/images/mitoSoft_icon.png?raw=true",
-    "logo": "https://raw.githubusercontent.com/michaelroth1/mitoSoft.HomeAssistant.Integrations.homeNet/main/images/mitoSoft_logo.png?raw=true"
+    "icon": "/local/mitoSoft_icon.png",
+    "logo": "/local/mitoSoft_icon.png"
   }
 }
