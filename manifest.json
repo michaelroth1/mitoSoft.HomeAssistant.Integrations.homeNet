@@ -1,0 +1,10 @@
+{
+  "domain": "mitosoft-homeNet",
+  "name": "mitosoft-homeNet",
+  "version": "1.0.0",
+  "documentation": "https://github.com/michaelroth1/mitoSoft.HomeAssistant.Integrations.homeNet",
+  "dependencies": [],
+  "codeowners": [ "@michaelroth1" ],
+  "requirements": [],
+  "iot_class": "local_polling"
+}
