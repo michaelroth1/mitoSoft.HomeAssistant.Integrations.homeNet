@@ -1,7 +1,7 @@
 {
   "domain": "homeNet",
   "name": "homeNet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "documentation": "https://github.com/michaelroth1/mitoSoft.HomeAssistant.Integrations.homeNet",
   "dependencies": [],
   "codeowners": [ "@michaelroth1" ],
