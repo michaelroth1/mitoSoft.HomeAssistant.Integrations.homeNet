@@ -1,13 +1,13 @@
 {
-  "name": "mitoSoft-homeNet",
+  "name": "homeNet",
   "description": "A homeNet Arduino Integration for Home Assistant",
   "render_readme": true,
-  "domains": [ "mitoSoft-homeNet" ],
+  "domains": [ "homeNet" ],
   "country": "DE",
   "homeassistant": "2023.1.0",
-  "documentation": "https://github.com/michaelroth1/mitoSoft-homeNet",
+  "documentation": "https://github.com/michaelroth1/mitoSoft.HomeAssistant.Integrations.homeNet/readme.md",
   "extra": {
-    "icon": "https://raw.githubusercontent.com/michaelroth1/mitoSoft-homeNet/main/images/mitoSoft_icon.png",
-    "logo": "https://raw.githubusercontent.com/michaelroth1/mitoSoft-homeNet/main/images/mitoSoft_logo.png"
+    "icon": "https://github.com/michaelroth1/mitoSoft.HomeAssistant.Integrations.homeNet/blob/main/images/mitoSoft_icon.png",
+    "logo": "https://github.com/michaelroth1/mitoSoft.HomeAssistant.Integrations.homeNet/blob/main/images/mitoSoft_logo.png"
   }
 }

@@ -1,5 +1,5 @@
-DOMAIN = "mitoSoft-homeNet"
+DOMAIN = "homeNet"
 
 def setup(hass, config):
-    hass.states.set("mitoSoft-homeNet.hello", "Successfully installed!")
+    hass.states.set("homeNet.hello", "Successfully installed!")
     return True
