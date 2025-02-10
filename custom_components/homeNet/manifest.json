@@ -1,14 +1,14 @@
 {
   "domain": "homeNet",
   "name": "homeNet",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "documentation": "https://github.com/michaelroth1/mitoSoft.HomeAssistant.Integrations.homeNet",
   "dependencies": [],
   "codeowners": [ "@michaelroth1" ],
   "requirements": [],
   "iot_class": "local_polling",
   "extra": {
-    "icon": "/local/mitoSoft_icon.png",
-    "logo": "/local/mitoSoft_icon.png"
+    "icon": "mdi:home-automation",
+    "logo": "mdi:home"
   }
 }
